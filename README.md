@@ -1,1 +1,2 @@
 # Analyzing-Bike-Sharing-Data-Using-Pandas
+This project primarily focused on analyzing bike-sharing data from Philadelphia using SQL and Pandas. We performed data cleaning and preprocessing, conducted various data queries and analyses to understand ride patterns, such as the number of one-way vs. round trips, and the average duration of these rides. We also examined the impact of weather on bike usage and visualized the data using line plots and word clouds to gain deeper insights into the biking habits in the city.
